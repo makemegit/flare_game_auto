@@ -21,7 +21,7 @@ chmod +x flare-game-auto
 
 or
 
-cd <YOUR PREPARED DIR>  
+cd YOUR PREPARED DIR  
 wget https://raw.githubusercontent.com/makemegit/flare_game_auto/main/flare-game-auto  
 chmod +x flare-game-auto  
 ./flare-game-auto  
