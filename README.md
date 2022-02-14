@@ -17,4 +17,5 @@ chmod +x flare-game-auto
 
 
 ---todo---
+
 Try to set all the setting and save files in the same directory.
