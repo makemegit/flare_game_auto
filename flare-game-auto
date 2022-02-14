@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# by makeme v.2022.02.14
+## by makeme v.2022.02.14
 #
 #BASEPATH='/storage/games/flare'
 #mkdir -p $BASEPATH
