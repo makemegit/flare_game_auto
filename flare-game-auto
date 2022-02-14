@@ -61,7 +61,6 @@ then
                 gameupdate
         fi
 else
-        echo \n
         echo "There is no game found in here. Installing NOW..."
         gameinstall && echo "Installation complete"
         asktolaunchthegame
