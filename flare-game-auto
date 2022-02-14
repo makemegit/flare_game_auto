@@ -39,7 +39,7 @@ asktolaunchthegame()
         then
                 exit 1
         else
-                cd $BASEPATH && ./flare
+                cd $GAMEPATH && ./flare
         fi
 }
 #
