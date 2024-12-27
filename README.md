@@ -26,7 +26,8 @@ wget https://raw.githubusercontent.com/makemegit/flare_game_auto/main/flare-game
 chmod +x flare-game-auto  
 ./flare-game-auto  
 
-If libreries are missing,, try installing these:
+If libreries are missing, try installing these:
+
 libsdl2-image-dev
 libsdl2-ttf
 libsdl2-ttf-dev
